@@ -1408,7 +1408,7 @@ StScrollBar StButton#hhandle:active {
   border-radius: 0;
 }
 .appmenu-sidebar .appmenu-system-button {
-  background-color: #494951;
+  background-color: rgba(58, 58, 64, 0.75);
 }
 .appmenu-sidebar .appmenu-system-button-lock:hover {
   background-color: #55555f;
@@ -1418,11 +1418,11 @@ StScrollBar StButton#hhandle:active {
 }
 .appmenu-sidebar .appmenu-system-button-shutdown {
   color: white;
-  background-color: #c01c28;
+  background-color: rgba(192, 31, 36, 0.7);
 }
 .appmenu-sidebar .appmenu-system-button-shutdown:hover {
   color: white;
-  background-color: #d61f2d;
+  background-color: rgba(224, 36, 42, 0.85);
 }
 
 .appmenu-system-box {
