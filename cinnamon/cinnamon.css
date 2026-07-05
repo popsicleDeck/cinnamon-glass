@@ -786,7 +786,7 @@ StScrollBar StButton#hhandle:active {
   padding: 0.5em;
   min-width: 350px;
   border: 1px solid rgba(0, 0, 0, 0);
-  background-color: #303036;
+  background-color: rgba(58, 58, 64, 0.85);
   border-radius: 6px;
 }
 
@@ -1037,7 +1037,7 @@ StScrollBar StButton#hhandle:active {
 
 .calendar-today {
   color: #e1e1e1;
-  background-color: rgba(140, 93, 217, 0.4);
+  background-color: rgba(140, 93, 217, 0.7);
   border-width: 0;
   border-radius: 6px;
 }
