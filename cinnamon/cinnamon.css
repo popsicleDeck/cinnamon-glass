@@ -1079,7 +1079,7 @@ StScrollBar StButton#hhandle:active {
   border-top-color: #8c5dd9;
   border-top: 4px;
   border-radius: 5px;
-  background-color: #222226;
+  background-color: rgba(0, 0, 0, 0.6);
   padding: 13px;
   spacing-rows: 10px;
   spacing-columns: 10px;
