@@ -339,7 +339,7 @@ StScrollBar StButton#hhandle:active {
 
 .menu {
   color: #e1e1e1;
-  background-color: #222226;
+  background-color: rgba(0, 0, 0, 0.4);
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 }
 .menu-top {
@@ -589,7 +589,7 @@ StScrollBar StButton#hhandle:active {
 .panel-right {
   color: #ffffff;
   border: none;
-  background-color: rgba(29, 29, 33, 0.99);
+  background-color: rgba(0, 0, 0, 0.4);
   font-size: 1em;
   padding: 0px;
 }
@@ -1389,10 +1389,10 @@ StScrollBar StButton#hhandle:active {
 
 .appmenu-sidebar {
   padding: 15px 0px;
-  background-color: #303036;
+  background-color: rgba(0, 0, 0, 0.6);
   border-radius: 6px 0 0 0;
-  border-right-width: 1px;
-  border-color: #303036;
+  /* border-right-width: 1px; */
+  /* border-color: #303036; */
   spacing: 5px;
 }
 .menu-top .appmenu-sidebar {
