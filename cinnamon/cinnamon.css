@@ -89,7 +89,7 @@ stage {
   transition-duration: 300ms;
   border-radius: 3px;
   color: #d3d3d3;
-  background-color: #303036;
+  background-color: rgba(58, 58, 64, 0.85);
   border: 1px solid #303036;
   box-shadow: inset 0 2px 4px rgba(48, 48, 54, 0.05);
 }
@@ -104,8 +104,8 @@ stage {
 #menu-search-entry:hover,
 .popup-menu #notification StEntry:hover {
   color: #e1e1e1;
-  background-color: #303036;
-  border: 1px solid #8c5dd9;
+  background-color: rgba(58, 58, 64, 0.85);
+  /* border: 1px solid #8c5dd9; */
   box-shadow: inset 0 2px 4px rgba(48, 48, 54, 0.05);
 }
 .prompt-dialog-password-entry:insensitive,
